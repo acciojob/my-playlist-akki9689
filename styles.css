@@ -2,12 +2,12 @@
 body{
     background-color: #cccccc;
 }
-h1,h3{
+h1,h2{
     text-align: center;
 }
 ul{
     display: block;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
    list-style: none;
    text-decoration: none;
    margin-left: 10px;
@@ -28,7 +28,7 @@ li a{
 }
 .player_two{
     display: block;
-    background-color: white;
+    background-color:rgb(255, 255, 255);
   
     width: max-content;
     margin-left: auto;
