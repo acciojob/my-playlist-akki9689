@@ -5,6 +5,9 @@ body{
 h1,h2,h3{
     text-align: center;
 }
+.player_one{
+	background-color: rgb(255, 255, 255);
+}
 ul{
     display: block;
     background-color: rgb(255, 255, 255);
